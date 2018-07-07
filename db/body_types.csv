@@ -1,0 +1,70 @@
+Code,Desc
+1,"Convertible (excludes sun-roof, t-bar)"
+2,"2-Door Sedan, Hardtop, Coupe"
+3,3-Door/2-Door Hatchback
+4,"4-Door Sedan, Hardtop"
+5,5-Door/4-Door Hatchback
+6,Station Wagon (excluding van and truck based)
+7,"Hatchback, Number of Doors Unknown"
+17,3-Door Coupe
+8,"Sedan/Hardtop, number of doors unknown"
+9,Other or Unknown automobile type
+11,"Auto-Based Panel (Cargo Station Wagon, auto-based Ambulance/Hearse)"
+12,Large Limousine (More than four side doors or stretched chassis)
+13,Three-Wheel Automobile or Automobile Derivative
+14,Compact Utility (ANSI D16.1 Utility Vehicle
+15,Large Utility (ANSI D16.1 Utility Vehicle Categories and “Full Size” and “Large”)
+16,"Utility Station Wagon (includes suburban limousines), Cadillac - Escalade ESV; Chevrolet - Suburban (Yukon XL (2000 on), Travellall, Ford - Excursion, Jeep - Grand Wagoneer)"
+19,"Utility Vehicle, Unknown Body Type"
+20,"Minivan (AM General - MV-1; Buick-Terraza; Chevrolet-Astro, City Express, Lumina, Uplander, Venture; Chrysler-Town and Country, Voyager; Dodge-Caravan, Grand Caravan, RAM-CV, Promater City; Ford-Aerostar, Windstar, Freestar, Transit Connect; GMC-Safari, Savana; Honda- Odyssey; Hyundai-Entourage; Isuzu-Oasis; Kia-Sedona; Mazda-MPV; Mercury-Monterey, Villager; Mitsubishi-Minivan; Nissan-Altra EV, Axxess, Quest, Van; Oldsmobile-Silhouette; Plymouth- Voyager, Grand Voyager, Vista; Pontiac-Transport, Montana; Saturn-Relay; Toyota-Previa, Sienna; Volkswagen-Camper, Eurovan, Routan, Vanagon."
+21,Large Van-I
+22,"Step-van or walk-in van (GVWR <= 10,000 lbs.)"
+28,"Other van type (Hi-Cube Van, Kary)"
+29,Unknown van type
+30,Compact pickup
+31,Standard pickup
+32,Pickup with slide-in camper
+33,Convertible pickup
+39,Unknown (pickup style) light conventional truck type
+40,"Cab Chassis Based (includes Rescue Vehicle, Light Stake, Dump, and Tow Truck)"
+41,Truck Based Panel
+45,Other light conventional truck type
+48,Unknown light truck type
+49,"Unknown light vehicle type (automobile, utility vehicle, van, light truck)"
+50,School Bus
+51,Cross Country/Intercity Bus
+52,Transit Bus (City Bus)
+55,"Van-Based Bus GVWR > 10,000 lbs."
+58,Other Bus Type
+59,Unknown Bus Type
+60,"Step Van (>10,000 lbs. GVWR)"
+61,"Single-unit straight truck or Cab-Chassis (10,000 lbs. < GVWR < or = 19,500 lbs.)"
+62,"Single-unit straight truck or Cab-Chassis (19,500 lbs. < GVWR < or = 26,000 lbs.)"
+63,"Single-unit straight truck or Cab-Chassis (GVWR > 26,000 lbs.)"
+64,Single-unit straight truck or Cab-Chassis (GVWR unknown)
+66,"Truck-tractor (Cab only, or with any number of trailing units; any weight)"
+67,"Medium/heavy Pickup (>10,000 lbs. GVWR)"
+71,"Unknown if single-unit or combination unit Medium Truck (10,000 lbs. < GVWR < 26,000 lbs.)"
+72,"Unknown if single-unit or combination unit Heavy Truck (GVWR > 26,000 lbs.)"
+78,Unknown medium/heavy truck type
+79,Unknown truck type (light/medium/heavy)
+42,Light Truck Based Motorhome (Chassis Mounted)
+65,Medium/heavy truck based motor home
+73,"Camper or motor home, unknown truck type"
+81,Moped (motorized bicycle)
+82,Three-wheel Motorcycle or Moped – not All-Terrain Vehicle
+83,Off-road Motorcycle (2-wheel)
+88,"Other motored cycle type (mini-bikes, motor scooters, pocket motorcycles “pocket bikes”)"
+89,Unknown motored cycle type
+90,ATV/ATC (All-Terrain Cycle)
+91,Snowmobile
+92,Farm equipment other than trucks
+93,Construction equipment other than trucks (includes graders)
+95,Golf Cart
+94,Low Speed Vehicle (LSV) / Neighborhood Electric Vehicle (NEV)
+97,"Other vehicle type (includes go-cart, fork-lift, city street sweeper, dune/swamp buggy)"
+98,Not Reported
+99,Unknown body type
+80,Motorcycle
+78,Medium/heavy truck
+79,unknown truck
